@@ -1,0 +1,17 @@
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\bin\Debug\Grade.Tests.dll
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\bin\Debug\Grade.Tests.pdb
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\obj\Debug\Grade.Tests.csprojAssemblyReference.cache
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\obj\Debug\Grade.Tests.csproj.CoreCompileInputs.cache
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\obj\Debug\Grade.Tests.csproj.CopyComplete
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\obj\Debug\Grade.Tests.dll
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\obj\Debug\Grade.Tests.pdb
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\bin\Debug\Grade.exe
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\bin\Debug\Grade.pdb
+C:\Users\amazo\workspace\backend\c#\Visual Studio\Repos\Grade\Grade.Tests\bin\Debug\Grade.exe.config
